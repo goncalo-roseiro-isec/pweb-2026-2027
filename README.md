@@ -2,10 +2,6 @@
 
 Materiais de apoio às aulas laboratoriais.
 
-## Conteúdo
-
-- `materiais-alunos/`
-
 ## Como obter os materiais
 
 Clonar o repositório para uma pasta local:
