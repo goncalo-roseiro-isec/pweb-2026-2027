@@ -1,6 +1,6 @@
 # Programação Web — 2026/2027
 
-Materiais e fichas práticas da disciplina.
+Materiais da disciplina.
 
 ## Fichas
 
