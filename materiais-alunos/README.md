@@ -13,8 +13,6 @@ Materiais e fichas práticas da disciplina.
 - [Ficha 07](fichas/ficha-07/)
 - [Ficha 08](fichas/ficha-08/)
 
-As fichas serão disponibilizadas ao longo do semestre.
-
 ## Recursos
 
 - [Links úteis](recursos/links.md)
